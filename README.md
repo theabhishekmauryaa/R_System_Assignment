@@ -46,7 +46,7 @@ This repository contains comprehensive testing documentation for the  **[Write_W
 
 ## 🚀 Technologies Used  
 - **Testing Methodology**: Manual Testing  
-- **Tools**: Excel, Google Docs, Jgithub (if used for tracking)  
+- **Tools**: Excel, Google Docs, github (if used for tracking)  
 - **Bug Tracking**: Documented manually  
 
 ---
