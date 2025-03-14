@@ -8,7 +8,6 @@ This repository contains comprehensive testing documentation for the  **[Write_W
 📁 **Test Plan** – Detailed strategy, scope, test objectives, and test deliverables.  
 📁 **Test Scenarios** – Various user journeys and workflows tested.  
 📁 **Test Cases** – Step-by-step test execution details, expected vs. actual results.  
-📁 **Summary Report** – Insights from test execution, findings, and recommendations.  
 📁 **Bug Report** – Identified defects with severity, priority, and resolution status.  
 
 ---
