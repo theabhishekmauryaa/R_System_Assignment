@@ -24,46 +24,36 @@ This repository contains comprehensive testing documentation for the  **[Write_W
 ---
 
 ### 🔹 2. Test Scenarios  
-- Covers different **real-world user interactions** with the Proxify.gg website.  
+- Covers different **real-world user interactions** with the Write Wave website.  
 - Scenarios include **account creation, login, payment processing, navigation, and error handling**.  
-
-📄 **[View Test Scenarios](./TestScenarios.md)**  
-
----
+ ---
 
 ### 🔹 3. Test Cases  
 - Step-by-step execution plans with **preconditions, steps, expected results, and actual outcomes**.  
 - Covers **positive and negative test cases**.  
 
-📄 **[View Test Cases](./TestCases.md)**  
+📄 **[View Test Cases](https://docs.google.com/spreadsheets/d/1wzJfDbclDJbJDvlVlVRL-nT-y6XfpsfO1RPLXR42Yaw/edit?usp=sharing)**  
 
 ---
-
-### 🔹 4. Summary Report  
-- **Overall test execution status** and key observations.  
-- **Test coverage**, **pass/fail rates**, and **critical defects**.  
-
-📄 **[View Summary Report](./SummaryReport.md)**  
-
 ---
 
 ### 🔹 5. Bug Report  
 - Documented defects with **severity, priority, reproduction steps, and screenshots**.  
 - Helps developers quickly understand and resolve issues.  
 
-📄 **[View Bug Report](./BugReport.md)**  
+📄 **[View Bug Report](https://docs.google.com/spreadsheets/d/1YedqmpsOsyaepb8yAmOM1Xu96xZwuXL4hW9aHkxzCIg/edit?usp=sharing)**  
 
 ---
 
 ## 🚀 Technologies Used  
 - **Testing Methodology**: Manual Testing  
-- **Tools**: Excel, Google Docs, Jira/Trello (if used for tracking)  
+- **Tools**: Excel, Google Docs, Jgithub (if used for tracking)  
 - **Bug Tracking**: Documented manually  
 
 ---
 
 ## 🏆 Conclusion  
-The testing process identified **critical usability and functional issues**, ensuring a better experience for Proxify.gg users. Continuous testing will help maintain the platform’s quality and reliability.  
+The testing process identified **critical usability and functional issues**, ensuring a better experience for **[Write_Wave](https://write-wave-gamma.vercel.app/)**  users. Continuous testing will help maintain the platform’s quality and reliability.  
 
 ---
 
