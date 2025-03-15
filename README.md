@@ -13,8 +13,7 @@ This repository contains comprehensive testing documentation for the  **[Write_W
 ---
 
 ## 📑 Test Documentation  
-## Test Plan Mind Map
-[Test Plan Mind Map]((https://drive.google.com/file/d/1N92B8ruDruk7Hvlk7diRbJTFA90oNy8I/view?usp=sharing))
+📄 **[Mind_Map](https://drive.google.com/file/d/1N92B8ruDruk7Hvlk7diRbJTFA90oNy8I/view?usp=sharing)**  
 ---
 ### 🔹 1. Test Plan  
 - Defines the **scope**, **approach**, **resources**, and **schedule** for testing.  
@@ -43,6 +42,9 @@ This repository contains comprehensive testing documentation for the  **[Write_W
 - Helps developers quickly understand and resolve issues.  
 
 📄 **[View Bug Report](https://docs.google.com/spreadsheets/d/1YedqmpsOsyaepb8yAmOM1Xu96xZwuXL4hW9aHkxzCIg/edit?usp=sharing)**  
+
+---
+📄 **[Presentation_Video](https://drive.google.com/file/d/1n6AmQ_RVoksY8uWixDB02oDnvsaLz5Pf/view?usp=sharing)**  
 
 ---
 
