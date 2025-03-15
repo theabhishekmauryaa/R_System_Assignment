@@ -13,12 +13,14 @@ This repository contains comprehensive testing documentation for the  **[Write_W
 ---
 
 ## 📑 Test Documentation  
-
+## Test Plan Mind Map
+[Test Plan Mind Map]((https://drive.google.com/file/d/1N92B8ruDruk7Hvlk7diRbJTFA90oNy8I/view?usp=sharing))
+---
 ### 🔹 1. Test Plan  
 - Defines the **scope**, **approach**, **resources**, and **schedule** for testing.  
 - Details on the types of testing performed: **Functional, Usability, Performance, Security**.  
 
-📄 **[View Test Plan](https://docs.google.com/document/d/1svBIsG9Ro8ShaUaCBGGzpRIxRFILHRUC/edit?usp=sharing&ouid=102088344208714563550&rtpof=true&sd=true)**  
+📄 **[View Test Plan](https://docs.google.com/document/d/1svBIsG9Ro8ShaUaCBGGzpRIxRFILHRUC/edit?usp=sharing&ouid=102088344208714563550&rtpof=true&sd=true)**. 
 
 ---
 
