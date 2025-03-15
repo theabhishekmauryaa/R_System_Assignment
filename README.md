@@ -11,6 +11,7 @@ This repository contains comprehensive testing documentation for the  **[Write_W
 📁 **Bug Report** – Identified defects with severity, priority, and resolution status.  
 
 ---
+📄 **[Google_Drive_Link](https://drive.google.com/drive/folders/1cFjl8Sssi1LyuBRzbcd17osmKU0Hlt-b?usp=sharing)**  
 
 ## 📑 Test Documentation  
 📄 **[Mind_Map](https://drive.google.com/file/d/1N92B8ruDruk7Hvlk7diRbJTFA90oNy8I/view?usp=sharing)**  
