@@ -3,7 +3,6 @@ package Testpage;
 import org.testng.annotations.Test;
 
 import Base.BaseTest;
-import R_System.RegisterPage;
 
 public class Register extends BaseTest {
     @Test
